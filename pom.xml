@@ -7,6 +7,13 @@
   <version>1.0.0-SNAPSHOT</version>
   <packaging>pom</packaging>
 
+  <modules>
+    <module>lib-parent</module>
+    <module>lib-a</module>
+    <module>lib-b</module>
+    <module>app-one</module>
+  </modules>
+
   <scm>
     <url>https://github.com/ctjoreilly/test-aggr-public-module/tree/${project.scm.tag}</url>
     <connection>scm:git:https://github.com/ctjoreilly/test-aggr-public-module.git</connection>
