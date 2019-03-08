@@ -4,7 +4,7 @@
 
   <groupId>com.github.ctjoreilly</groupId>
   <artifactId>test.aggr.public.module</artifactId>
-  <version>1.0.0-SNAPSHOT</version>
+  <version>1.0.0</version>
   <packaging>pom</packaging>
 
   <modules>
@@ -18,7 +18,7 @@
     <url>https://github.com/ctjoreilly/test-aggr-public-module/tree/${project.scm.tag}</url>
     <connection>scm:git:https://github.com/ctjoreilly/test-aggr-public-module.git</connection>
     <developerConnection>scm:git:https://github.com/ctjoreilly/test-single-aggr-module.git</developerConnection>
-    <tag>master</tag>
+    <tag>test.aggr.public.module-1.0.0</tag>
   </scm>
 
   <distributionManagement>
