@@ -15,5 +15,12 @@
     </dependency>
   </dependencies>
 
+  <distributionManagement>
+    <repository>
+      <id>bintray-ctjoreilly-test-maven-repository</id>
+      <name>ctjoreilly-test-maven-repository</name>
+      <url>https://api.bintray.com/maven/ctjoreilly/test-maven-repository/test-public-package-3/;publish=1</url>
+    </repository>
+  </distributionManagement>
 
 </project>
